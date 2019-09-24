@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Electrical Engineering undegrad student @ UFES
+Electrical Engineering undergrad student @ UFES
 
 
 ## Interests
